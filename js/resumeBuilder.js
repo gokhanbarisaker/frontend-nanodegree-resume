@@ -118,6 +118,15 @@ var resume = {
     ]
   },
   "projects":[
+    {
+      "title": "string",
+      "dates": "string (works with a hyphen between them)",
+      "description": "string",
+      "images": [
+        "http://lorempixel.com/480/640/",
+        "http://lorempixel.com/480/640/"
+      ]
+    }
   ]
 };
 
